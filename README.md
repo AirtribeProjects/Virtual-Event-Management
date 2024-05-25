@@ -1,1 +1,1 @@
-# Vitrtual-Event-Management
+# Virtual-Event-Management
