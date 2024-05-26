@@ -1,0 +1,20 @@
+[
+  {
+    "userId": 1,
+    "userName": "Soumya",
+    "emailID": "das@abc.com",
+    "password": "$2b$10$McWzUBWSm2tSUpxB9FNU3eUyAzcqHKJg9ZQuKNOjUYYn4LmxNVY6m",
+    "events": [
+      "1"
+    ]
+  },
+  {
+    "userId": 2,
+    "userName": "shamanth",
+    "emailID": "deekshashmanthshetty@gmail.com",
+    "password": "$2b$10$nH83YUu/aOUvG/PXLTI/yOyADfocRP2C6XFcMyvM4dQB59OgHlNbe",
+    "events": [
+      "1"
+    ]
+  }
+]

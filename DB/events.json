@@ -1,0 +1,21 @@
+[
+  {
+    "eventId": 1,
+    "name": "Tech Innovators Summit",
+    "creationTime": 1716748428174,
+    "description": "Join industry leaders and forward-thinking professionals at the Tech Innovators Summit. Explore the latest advancements in technology, attend insightful panels, and network with pioneers shaping the future.",
+    "participants": [
+      2,
+      1
+    ],
+    "createdBy": 2
+  },
+  {
+    "eventId": 2,
+    "name": "Cultural Festival",
+    "creationTime": 1716750753312,
+    "description": "Experience the richness of diverse cultures at the Cultural Festival. Enjoy traditional music and dance performances, taste authentic cuisine, and learn about different cultural traditions through interactive exhibits and workshops.",
+    "participants": [],
+    "createdBy": 2
+  }
+]
